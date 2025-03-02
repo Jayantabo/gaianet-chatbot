@@ -55,9 +55,9 @@ EOF
 }
 # Define a list of predefined messages
 user_messages=(
-    "What color is a banana?"
-		"How many fingers do you have on one hand?"
-		"What sound does a cow make?"		Which number comes before 3?
+    "What color is a banana"
+     "How many fingers do you have on one hand?"
+		"What sound does a cow make?"
 		"What is the opposite of “big”?"
 		"What do you wear on your head?"
 		"What do you use to cut paper?"
